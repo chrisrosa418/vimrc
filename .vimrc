@@ -174,7 +174,7 @@ map <Leader>l :call RunLastSpec()<CR>
 map <C-n> :NERDTreeToggle<CR>
 "map <Leader>nt :call NERDTreeToggle()<CR>
 
-colorscheme solarized
+"colorscheme solarized
 
 "set background=dark
 highlight LineNr ctermfg=grey
